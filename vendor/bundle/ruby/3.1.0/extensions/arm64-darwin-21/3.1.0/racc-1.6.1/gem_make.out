@@ -1,0 +1,17 @@
+current directory: /Users/yagitoshiki/git-amend-rebase/vendor/bundle/ruby/3.1.0/gems/racc-1.6.1/ext/racc/cparse
+/Users/yagitoshiki/.rbenv/versions/3.1.2/bin/ruby -I /Users/yagitoshiki/.rbenv/versions/3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/yagitoshiki/git-amend-rebase/vendor/bundle/ruby/3.1.0/gems/racc-1.6.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20221208-7033-3y1faz sitelibdir\=./.gem.20221208-7033-3y1faz clean
+
+current directory: /Users/yagitoshiki/git-amend-rebase/vendor/bundle/ruby/3.1.0/gems/racc-1.6.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20221208-7033-3y1faz sitelibdir\=./.gem.20221208-7033-3y1faz
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/yagitoshiki/git-amend-rebase/vendor/bundle/ruby/3.1.0/gems/racc-1.6.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20221208-7033-3y1faz sitelibdir\=./.gem.20221208-7033-3y1faz install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20221208-7033-3y1faz/racc
